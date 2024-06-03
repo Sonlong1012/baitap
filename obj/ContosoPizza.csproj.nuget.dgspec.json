@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Documents\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Documents\\Arduino\\baitap\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Documents\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Documents\\Arduino\\baitap\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documents\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documents\\Arduino\\baitap\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documents\\Arduino\\baitap\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documents\\Arduino\\baitap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
